@@ -1,0 +1,10 @@
+{
+    "arcgisAPI": "https://js.arcgis.com/3.24/",
+    "mapServices": {
+        "layer1": "http://localhost:8080/arcgis/rest/services/",
+        "layer2": "http://localhost:8080/arcgis/rest/services/",
+    },
+    "queryServices": {
+        "query1": "http://localhost:8080/"
+    }
+}
